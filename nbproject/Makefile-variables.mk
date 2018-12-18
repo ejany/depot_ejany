@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=tp4
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/tp4
+CND_ARTIFACT_NAME_Debug=depot_ejany
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/depot_ejany
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=tp4.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/tp4.tar
+CND_PACKAGE_NAME_Debug=depotejany.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/depotejany.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=tp4
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/tp4
+CND_ARTIFACT_NAME_Release=depot_ejany
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/depot_ejany
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=tp4.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/tp4.tar
+CND_PACKAGE_NAME_Release=depotejany.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/depotejany.tar
 #
 # include compiler specific variables
 #
